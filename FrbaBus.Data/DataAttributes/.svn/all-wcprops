@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/GDD-Eslodemenos/!svn/ver/47/trunk/Aplicacion%20Desktop/FrbaBus.Data/DataAttributes
+END
+NotMappedAttribute.cs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/GDD-Eslodemenos/!svn/ver/17/trunk/Aplicacion%20Desktop/FrbaBus.Data/DataAttributes/NotMappedAttribute.cs
+END
+IdentityAttribute.cs
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/GDD-Eslodemenos/!svn/ver/47/trunk/Aplicacion%20Desktop/FrbaBus.Data/DataAttributes/IdentityAttribute.cs
+END
+PrimaryKeyAttribute.cs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/GDD-Eslodemenos/!svn/ver/17/trunk/Aplicacion%20Desktop/FrbaBus.Data/DataAttributes/PrimaryKeyAttribute.cs
+END

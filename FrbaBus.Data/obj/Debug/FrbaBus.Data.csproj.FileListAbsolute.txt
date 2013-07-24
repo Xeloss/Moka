@@ -1,0 +1,11 @@
+C:\Documents and Settings\Administrador\Escritorio\Proyecto Es lo de menos\trunk\Aplicacion Desktop\FrbaBus.Data\bin\Debug\FrbaBus.Data.dll
+C:\Documents and Settings\Administrador\Escritorio\Proyecto Es lo de menos\trunk\Aplicacion Desktop\FrbaBus.Data\bin\Debug\FrbaBus.Data.pdb
+C:\Documents and Settings\Administrador\Escritorio\Proyecto Es lo de menos\trunk\Aplicacion Desktop\FrbaBus.Data\bin\Debug\FrbaBus.Common.dll
+C:\Documents and Settings\Administrador\Escritorio\Proyecto Es lo de menos\trunk\Aplicacion Desktop\FrbaBus.Data\bin\Debug\FrbaBus.Common.pdb
+C:\Documents and Settings\Administrador\Escritorio\Proyecto Es lo de menos\trunk\Aplicacion Desktop\FrbaBus.Data\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Escritorio\Proyecto Es lo de menos\trunk\Aplicacion Desktop\FrbaBus.Data\obj\Debug\FrbaBus.Data.dll
+C:\Documents and Settings\Administrador\Escritorio\Proyecto Es lo de menos\trunk\Aplicacion Desktop\FrbaBus.Data\obj\Debug\FrbaBus.Data.pdb
+C:\Users\gallu_000\Documents\Visual Studio 2012\Projects\Moka\FrbaBus.Data\obj\Debug\FrbaBus.Data.dll
+C:\Users\gallu_000\Documents\Visual Studio 2012\Projects\Moka\FrbaBus.Data\obj\Debug\FrbaBus.Data.pdb
+C:\Users\gallu_000\Documents\Visual Studio 2012\Projects\Moka\FrbaBus.Data\bin\Debug\FrbaBus.Data.dll
+C:\Users\gallu_000\Documents\Visual Studio 2012\Projects\Moka\FrbaBus.Data\bin\Debug\FrbaBus.Data.pdb
